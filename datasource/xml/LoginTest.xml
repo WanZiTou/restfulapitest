@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cases>
+	<case name="loginScm">
+			<row>
+				<data key="fsShopName" type="string" value="10000551"/>
+				<data key="fsUserId" type="string" value="006"/>
+				<data key="fsPwd" type="string" value="123456"/>
+			</row>
+	</case>
+</cases>
